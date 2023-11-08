@@ -1,4 +1,4 @@
-# Gestion des Étudiants & Transactions Bancaires
+Gestion des Étudiants & Transactions Bancaires
 
 Ce projet vise à fournir un ensemble d'outils de gestion pour les étudiants d'une institution éducative, ainsi qu'une fonctionnalité de gestion de comptes bancaires pour effectuer des transactions financières en toute sécurité.
 
