@@ -1,0 +1,15 @@
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\bin\Debug\TP_DataBase.exe.config
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\bin\Debug\TP_DataBase.exe
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\bin\Debug\TP_DataBase.pdb
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\obj\Debug\TP_DataBase.csproj.AssemblyReference.cache
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\obj\Debug\TP_DataBase.Form1.resources
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\obj\Debug\TP_DataBase.Properties.Resources.resources
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\obj\Debug\TP_DataBase.csproj.GenerateResource.cache
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\obj\Debug\TP_DataBase.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\obj\Debug\TP_DataBase.csproj.CopyComplete
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\obj\Debug\TP_DataBase.exe
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\obj\Debug\TP_DataBase.pdb
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\obj\Debug\TP_DataBase.Form2.resources
+C:\Users\Mohamed El makhfi\source\repos\TP_DataBase\obj\Debug\TP_DataBase.Form3.resources
