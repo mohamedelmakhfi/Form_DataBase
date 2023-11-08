@@ -35,6 +35,6 @@ Utilisez l'écran de gestion des transactions bancaires pour effectuer des virem
 <p>Si vous souhaitez contribuer à ce projet, n'hésitez pas à ouvrir des issues, à soumettre des pull requests ou à discuter des améliorations possibles.</p>
 
 <h1>Auteurs</h1>
-- [El makhfi Mohamed] (https://github.com/mohamedelmakhfi)
+- [El makhfi Mohamed](https://github.com/mohamedelmakhfi) - Développeur principal
 
 
